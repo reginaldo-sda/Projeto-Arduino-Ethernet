@@ -1,4 +1,4 @@
-# 🚀 Arduino Web Server Series
+# 🚀 Arduino Web Server Series.
 
 Este repositório contém uma coleção de implementações de **Servidores Web utilizando Arduino** e o Shield Ethernet (W5100/W5500). Os projetos abrangem desde o básico da comunicação HTTP até sistemas de monitoramento IoT em tempo real.
 
